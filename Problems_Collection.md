@@ -24,6 +24,9 @@
 > - https://leetcode.com/problems/next-permutation/
 > - https://www.geeksforgeeks.org/longest-subarray-non-negative-integers/
 
+## BIT MANIPULATION
 
-
-
+> - https://leetcode.com/problems/single-number/submissions/
+> - https://leetcode.com/problems/reverse-bits/
+> - https://leetcode.com/problems/single-number-ii/
+> - https://leetcode.com/problems/number-of-1-bits/
