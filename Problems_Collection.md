@@ -53,3 +53,13 @@
 > - https://leetcode.com/problems/search-a-2d-matrix/
 > - https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/
 
+
+## Searching II
+
+> - https://leetcode.com/problems/search-a-2d-matrix/
+> - https://leetcode.com/problems/magnetic-force-between-two-balls/
+> - https://leetcode.com/problems/smallest-good-base/
+> - https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/
+
+
+
