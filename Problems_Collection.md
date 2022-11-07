@@ -70,4 +70,33 @@
 
 ## LinkedList I
 
+**_ASSIGNMENTS_**
+
+>- https://leetcode.com/problems/design-linked-list/
 >- https://leetcode.com/problems/middle-of-the-linked-list/
+>- https://leetcode.com/problems/merge-two-sorted-lists/
+>- https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+>- https://leetcode.com/problems/linked-list-cycle-ii/
+
+**_HOMEWORK_**
+
+>- https://leetcode.com/problems/sum-of-two-integers/
+>- https://leetcode.com/problems/koko-eating-bananas/
+>- https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+>- https://leetcode.com/problems/maximum-units-on-a-truck/
+>- https://leetcode.com/problems/most-profit-assigning-work/
+
+**_PRACTICE_**
+
+>- https://leetcode.com/problems/remove-outermost-parentheses/
+>- https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
+>- https://leetcode.com/problems/build-an-array-with-stack-operations/
+>- https://leetcode.com/problems/baseball-game/
+>- https://leetcode.com/problems/next-greater-element-i/
+>- https://leetcode.com/problems/crawler-log-folder/
+>- https://leetcode.com/problems/make-the-string-great/
+>- https://leetcode.com/problems/implement-queue-using-stacks/
+>- https://leetcode.com/problems/implement-stack-using-queues/
+>- https://leetcode.com/problems/backspace-string-compare/
+>- https://leetcode.com/problems/min-stack/
+>- https://leetcode.com/problems/valid-parentheses/
