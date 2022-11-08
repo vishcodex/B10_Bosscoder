@@ -100,3 +100,22 @@
 >- https://leetcode.com/problems/backspace-string-compare/
 >- https://leetcode.com/problems/min-stack/
 >- https://leetcode.com/problems/valid-parentheses/
+
+## LinkedList II
+
+**_ASSIGNMENTS_**
+
+>- https://leetcode.com/problems/merge-two-sorted-lists/
+>- https://leetcode.com/problems/intersection-of-two-linked-lists/
+>- https://leetcode.com/problems/copy-list-with-random-pointer/
+>- https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/
+>- https://leetcode.com/problems/remove-duplicates-from-sorted-list/
+
+**_HOMEWORK_**
+
+>- https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/
+>- https://leetcode.com/problems/palindrome-linked-list/
+>- https://leetcode.com/problems/reverse-linked-list-ii/
+>- https://leetcode.com/problems/sort-list/
+
+
