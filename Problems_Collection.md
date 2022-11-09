@@ -119,3 +119,49 @@
 >- https://leetcode.com/problems/sort-list/
 
 
+
+## TREES I
+
+**_ASSIGNMENTS_**
+
+>- https://leetcode.com/problems/binary-tree-inorder-traversal/
+>- https://leetcode.com/problems/binary-tree-preorder-traversal/
+>- https://leetcode.com/problems/binary-tree-postorder-traversal/
+>- https://leetcode.com/problems/maximum-depth-of-binary-tree/
+>- https://leetcode.com/problems/binary-tree-level-order-traversal/
+>- https://leetcode.com/problems/balanced-binary-tree/
+>- https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
+>- https://www.geeksforgeeks.org/inorder-tree-traversal-without-recursion/
+
+**_HOMEWORK_**
+
+>- https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+>- https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
+>- https://leetcode.com/problems/same-tree/
+>- https://leetcode.com/problems/path-sum/
+>- https://leetcode.com/problems/invert-binary-tree/
+>- https://leetcode.com/problems/sum-of-left-leaves/
+
+**_PRACTICE_**
+
+>- https://leetcode.com/problems/intersection-of-two-arrays-ii/
+>- https://leetcode.com/problems/sqrtx/
+>- https://leetcode.com/problems/reverse-string/
+>- https://leetcode.com/problems/move-zeroes/
+>- https://leetcode.com/problems/intersection-of-two-arrays-ii/
+>- https://student.bosscoderacademy.com/user/curriculum/34
+>- https://leetcode.com/problems/linked-list-cycle/
+>- https://leetcode.com/problems/palindrome-linked-list/
+>- https://leetcode.com/problems/merge-sorted-array/
+>- https://leetcode.com/problems/valid-palindrome/
+>- https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/
+>- https://leetcode.com/problems/single-number/
+>- https://leetcode.com/problems/top-k-frequent-elements/
+>- https://leetcode.com/problems/group-anagrams/
+>- https://leetcode.com/problems/valid-anagram/
+>- https://leetcode.com/problems/contains-duplicate/
+>- https://leetcode.com/problems/flatten-nested-list-iterator/
+>- https://leetcode.com/problems/4sum-ii/
+>- https://leetcode.com/problems/first-unique-character-in-a-string/
+>- https://leetcode.com/problems/intersection-of-two-arrays-ii/
+>- https://leetcode.com/problems/trapping-rain-water/
