@@ -176,3 +176,13 @@
 >- https://leetcode.com/problems/path-sum-iii/
 >- https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
 >- https://leetcode.com/problems/invert-binary-tree/
+
+## TRIES I
+
+>- https://leetcode.com/problems/implement-trie-prefix-tree/
+>- https://leetcode.com/problems/design-add-and-search-words-data-structure/
+>- https://leetcode.com/problems/prefix-and-suffix-search/
+>- https://leetcode.com/problems/count-substrings-that-differ-by-one-character/
+>- https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
+>- https://student.bosscoderacademy.com/user/curriculum/40
+>- https://www.geeksforgeeks.org/subarray-xor-less-k/
