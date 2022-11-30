@@ -186,3 +186,11 @@
 >- https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
 >- https://student.bosscoderacademy.com/user/curriculum/40
 >- https://www.geeksforgeeks.org/subarray-xor-less-k/
+
+## HEAPS I
+
+>- https://www.geeksforgeeks.org/connect-n-ropes-minimum-cost/
+>- https://leetcode.com/problems/find-k-pairs-with-smallest-sums/
+>- https://leetcode.com/problems/merge-k-sorted-lists/
+>- https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/
+
